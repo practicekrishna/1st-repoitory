@@ -1,5 +1,0 @@
-this is a imple text file , tex is ok 
-
-
-ls
-$ls
