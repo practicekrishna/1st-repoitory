@@ -1,2 +1,5 @@
+this is a imple text file , tex is ok 
 
-This is a sample text file,text is ok
+
+ls
+$ls
